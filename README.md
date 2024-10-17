@@ -25,6 +25,15 @@ We focused on two columns: Annual Income (k$) and Spending Score (1-100) for clu
 The dataset was checked for any missing or infinite values, and none were found.
 
 #### * Standardization:
-In this case, standardization was not necessary, as the features are already on a comparable scale.
+In this case, standardization was not necessary, as the features are already on a comparable scale.     
+
+
+
+
+
+
+
+
+
 
 
