@@ -27,7 +27,7 @@ The dataset was checked for any missing or infinite values, and none were found.
 #### * Standardization:
 In this case, standardization was not necessary, as the features are already on a comparable scale.     
 
-
+#### - LIVE APP - https://app2py-qgjegg7vskjmgevpumjun7.streamlit.app/
 
 
 
