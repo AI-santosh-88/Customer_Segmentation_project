@@ -107,3 +107,7 @@ if st.button("Predict Cluster"):
     plt.legend()
     
     st.pyplot(plt)  # Display the plot in Streamlit
+
+# Footer
+st.markdown("---")
+st.write("Created with ❤️ by Santosh")
